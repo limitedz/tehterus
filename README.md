@@ -1,0 +1,2 @@
+# tehterus
+TEA tesnet
